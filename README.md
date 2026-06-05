@@ -4,14 +4,6 @@ A responsive Netflix landing page clone built using HTML, CSS, and JavaScript, r
 
 A responsive Netflix Landing Page Clone built using **HTML, CSS, and JavaScript**. This project recreates the look and feel of Netflix's official landing page, featuring a modern UI, responsive design, and smooth user experience.
 
-## 🚀 Live Demo
-
-Add your deployed website link here:
-
-```text
-https://your-live-demo-link.com
-```
-
 ## 📸 Screenshots
 
 ### Homepage
@@ -28,7 +20,7 @@ https://your-live-demo-link.com
 
 ## ✨ Features
 
-* Responsive design for Desktop, Tablet, and Mobile
+* Smooth Animations 
 * Netflix-inspired user interface
 * Hero section with call-to-action
 * Interactive FAQ section
@@ -81,10 +73,6 @@ cd Netflix-LandingPage-Clone
 * Modern Landing Page Layouts
 * JavaScript DOM Manipulation
 * Frontend Development Best Practices
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
 
 ## 📜 License
 
