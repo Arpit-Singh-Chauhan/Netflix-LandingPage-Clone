@@ -16,15 +16,15 @@ https://your-live-demo-link.com
 
 ### Homepage
 
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](assets/screenshots/N-homepage.png)
 
 ### Features Section
 
-![Features](assets/screenshots/features.png)
+![Features](assets/screenshots/N-features.png )
 
 ### FAQ Section
 
-![FAQ](assets/screenshots/faq.png)
+![FAQ](assets/screenshots/N-footer.png )
 
 ## ✨ Features
 
